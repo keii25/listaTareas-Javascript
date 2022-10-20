@@ -1,0 +1,18 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Workshop ToDo in Javascript - Bitakora",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Kevin Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  },
+  "type": "module"
+}
